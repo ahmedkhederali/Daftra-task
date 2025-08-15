@@ -1,0 +1,14 @@
+/* Responsive style for PokemonDetailPage main container */
+.pokemon-detail-main {
+    padding: 32px;
+    background: 'linear-gradient(135deg, #fbefff 0%, #fbefff 60%, #fbefff 100%)';
+    min-height: '100vh';
+    padding: '32px';
+    box-sizing: 'border-box';
+}
+
+@media (max-width: 900px) {
+    .pokemon-detail-main {
+        padding: 0;
+    }
+}
