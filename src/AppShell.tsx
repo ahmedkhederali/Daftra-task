@@ -1,4 +1,3 @@
-import React from 'react'
 import { ErrorBoundary } from 'react-error-boundary';
 import { RouterProvider } from 'react-router-dom';
 import { router } from './app/router';

@@ -1,4 +1,3 @@
-import React from 'react';
 import { PokemonGrid } from '../../components/pokemon/PokemonGrid';
 import { ErrorView } from '../../components/ui/ErrorView';
 import { GridSkeleton } from '../../components/ui/Skeleton';
